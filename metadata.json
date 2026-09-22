@@ -1,0 +1,6 @@
+{
+  "name": "SAFETY MISSION TN",
+  "description": "AI + GPS + IoT Based Smart Cleaning & Public Monitoring Platform - Government Demonstration Prototype",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
